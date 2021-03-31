@@ -9,4 +9,7 @@ This repository contains parameter files for MK-8 head group and isoprenoid tail
 
 - `toppar-isoprene-dimer.str`: isoprene dimer topology and parameter files. We optimized torsion angle parameters of isoprenoid. 
 
-- `50-MK8-system.psf/crd/pdb`: topology and coordinates files of the initial assembly of 50-MK8 system (with 50% MK8 in the membrane). 
+- `50-MK8-system.psf/crd/pdb`: topology and coordinates files of the initial assembly of 50-MK8 system (with 50% MK8 in the membrane).  
+
+
+Any questions? Please contact Shasha Feng, shaalltime@gmail.com 
